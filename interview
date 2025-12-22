@@ -1,78 +1,20 @@
-what is linux system
-founder for linux
-Other operatin system
-what is shell and its types
-what is kernel and latest version of kernel. How to check kernel version
-How can you check the server configuration in linux. like how much ram, cpu, sudo permission
-what is cpu core. how to see how many cpu cores availabel in machine
-Where you can see properties assigned to user in linux
-in linux how to check how much ram you have ---eg free command
-what are the information in etc/passwd
-install OS in VM 
-why choose linux OS
-Entriprise version of linux 
-what are the different things when you create user in linux
-major or critical log files in linux
-what is log rotation
-what is cron job . Like it do we have any scheduler in linux
-What is softlink. How can you create it. symlink
-what is inodes 
-How would you know what update is there in any package
-How to create a shortcut of file
-loops syntax in shell scripting
-file permission available in linux. What are the special permission in linux
-Default file permission for the new file
-what is log file and where is it stored what are the different types of log file in linux
-Package manager in linux. Difference between rpm and yum. What are the background process when you run yum install httpd , where this package will be installed and where does it fetch from 
-Red hat mirror repository or red hat repository
-Reebot linux server
-What is shell scripting . How to run this . What is bash
-In shell script if the first command fails will the second command execute
-print date in linux server
-User case of shell scripting
-What is cloud. Where does it exist. How do you excess them using what
-Different types of cloud give example.
-What are the cloud model names
-Advantages of cloud
-What is Elastic in AWS. Technically what happen in background when we autoscale
-Disadvantage of aws
-what is EBS . you want to increase the size of 100 gb ebs WHAT YOU CAN RESIZE IT 
-what is Iam . what is policy . 
-If I want to use my own private cloud which software/application should you use. Like VM ware, hyperviser
-Different categories of services cloud provide. Give example
-Why choose aws cloud over other cloud
-when you create ec3 instance but not able to access what issues may be there
-what are the types of storage like s3 in aws
-what is pem key when you connect instance and what does it validates with.
-What is Elastic in AWS
-what types of server authentication process aws ec2 instance uses 
-Advantages of AWS
-what is subnet. How many types and its uses and example
-How many regions in aws and Availability zones
-when you launch/create VPC, what are the various object/properties it creates
-Difference between private and public subnet
-SDLC . types
-Agile process can be implemented using what type of tools
-what type of job you can do in jenkin. what is pipeline
-How jenkins work from start to end/deploy
-what are the tools used in CI 
-In CI, What type of code build you did . Explain in details what it does in background what is created what process is made/taken everything
-Goals in Maven
-How to integrate maven with jenkins
-How java code compilation process
-How can we use maven in jenkins
-Branches strategy in git
-Pull request in github
-what do you mean by staging the code. --> making version in local repository
-What is ansible	. What are the module in ansible example
-Different component in ansible
-What do you mean by host info in ansible what all the present in it
-How can you valitate ansible playbook
-Roles in ansible
-Playbook task consist of-- permorm the task , stop , start  instead of writing it you can make start role, copy role, stop role...then you can use task role rolename
-what is pipeline
-where you can declare variable in ansible and where you store it. what about password( use--vault)
-How you run playbook in ansible
-In docker what you write that cont.jar will deploy in container using COPY . . in docker file. What does COPY . . does 
+write an ideas for me . Keep in mind you don't need to follow entirely what I've described below. Since I am new to the organization I am yet not assigned to any project so this will be a general scenario which is related to any technology I use while training in a self placed course or like exploring a website or just having trouble in any technology. The thing is it should be related to technology. I have done training in AWS + DevOps domain and just completed the training after 4 months of intense technology training 
 
-https://grok.com/share/c2hhcmQtMg%3D%3D_6f725e55-06cd-4615-8e3a-44f6bc386071
+You can create an idea for a specific opportunity. You must provide a specific title for the idea and type a brief description of the idea that you want to create
+
+If the FTE benefit is applicable for an idea, you must specify information such as, the FTE benefits associated with the idea, the customer benefits associated with the idea, and the organization benefits associated with the idea regardless of the workflow associated with the idea. You must further specify the benefit related information, such as the estimated hard dollar benefit for the idea, the estimated soft dollar benefit for the idea, the estimated cost of investment for the idea, the qualitative benefits associated with the idea, the number of efforts saved, in hours, the estimated date on which the FTE is released, the estimated date on which the benefit realization cycle (BRC) starts and the hard dollar value for annualized revenue associated with the idea.
+any one:
+soft dollar--human effort
+hard---saving money 
+revenue generation ---generating revenue
+
+follow this format:
+Problem Statement 
+Idea Description
+
+for example:
+
+Problem Statement
+Automating certificate validity reporting using PowerShell is a multi functionality script which gathers data from multiple sources for the most accurate validation, using the we have noted various instances of the certificates expiry dates not matching whats on our tracker.
+
+Idea Description: ....
